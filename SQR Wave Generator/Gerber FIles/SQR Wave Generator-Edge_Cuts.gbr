@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.7*%
+%TF.CreationDate,2024-12-17T11:32:19+05:30*%
+%TF.ProjectId,SQR Wave Generator,53515220-5761-4766-9520-47656e657261,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.7) date 2024-12-17 11:32:19*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X223062800Y-63220600D02*
+X210108800Y-63220600D01*
+X210108800Y-39725600D01*
+X223062800Y-39725600D01*
+X223062800Y-63220600D01*
+M02*
